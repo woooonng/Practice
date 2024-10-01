@@ -1,2 +1,2 @@
-print('hi')
-print('woong')
+print('w')
+print('hello')
